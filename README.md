@@ -1,4 +1,6 @@
-## Hello! Eu sou Bruno Oliveira, e estou na fase JR em programação.
+## Welcome to my profile. I'm Bruno Oliveira and sorry guys, my english is not perfect. I try everyday to improve.
+
+After spending 8 years repairing cell phone glass, batteries and micro soldering motherboards, I now make software for cell phones. I've wanted to do this for years, and now with my experience I know what people need and how we're going to solve problems.
 
 <div align="center">
   <a href="https://github.com/brunoal753">
