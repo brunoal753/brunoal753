@@ -1,6 +1,6 @@
 console.log('Hello pessoas!') \o/
 
-My name is Bruno Oliveira and I'm from Brazil. (My english not is perfect. Sorry) I work as a Front-End Developer since 2022 hahaha I started because I have experience with cell phones for 8 years changing screens, batteries and repairing boards (microwelding) and now I am changing areas because my intention is to make applications, since in these 8 years I have seen a lot of people in need solve problems and there were no apps for that.
+My name is Bruno Oliveira and I'm from Brazil. (My english not is perfect. Sorry) I work as a Front-End Developer since 2022. I started because I have experience with cell phones for 8 years changing screens, batteries and repairing boards (microwelding) and now I am changing areas because my intention is to make applications, since in these 8 years I have seen a lot of people in need solve problems and there were no apps for that.
 
 <div align="center">
   <a href="https://github.com/brunoal753">
